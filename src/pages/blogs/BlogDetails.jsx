@@ -188,21 +188,6 @@ export default function BlogDetail() {
               </Link>
             ))}
           </div>
-
-          <div className="p-8 bg-zinc-900 rounded-3xl border border-zinc-800">
-            <h3 className="text-xl font-black uppercase tracking-tighter mb-4">
-              Join the Journal.
-            </h3>
-            <p className="text-sm text-zinc-400 mb-6">
-              Get access to contribute your own stories to the archive.
-            </p>
-            <Link
-              to="/authors/register"
-              className="block w-full text-center bg-emerald-600 hover:bg-emerald-500 text-white text-[10px] font-bold uppercase tracking-widest py-3 rounded-xl transition"
-            >
-              Get Access
-            </Link>
-          </div>
         </aside>
       </div>
     </main>
