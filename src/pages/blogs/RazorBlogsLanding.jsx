@@ -228,8 +228,8 @@ export default function RazorBlogsLanding() {
                 Victor Muthomi
               </h2>
               <p className="text-zinc-400 text-sm leading-relaxed">
-                Writing in-depth technical blogs, practical Test-Driven
-                Development (TDD) workflows, and real-world engineering case
+                Writing in-depth technical blogs, practical Technical Design
+                Documents (TDD) workflows, and real-world engineering case
                 studies. Exploring backend systems, code architecture, and
                 lessons from the trenches.
               </p>
