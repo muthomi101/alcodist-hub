@@ -11,8 +11,9 @@ const BASE_URL = "https://razorsports-backend.vercel.app";
 //export const COMMENTS_URL = "http://localhost:8080/comments";
 
 //for prod
-export const BLOG_URL = "https://razorblog-backend.onrender.com/blogs";
-export const AUTHOR_URL = "https://razorblog-backend.onrender.com/authors";
-export const COMMENTS_URL = "https://razorblog-backend.onrender.com/comments";
+export const BLOG_URL = "https://alcodist-hub-backend.onrender.com/blogs";
+export const AUTHOR_URL = "https://alcodist-hub-backend.onrender.com/authors";
+export const COMMENTS_URL =
+  "https://alcodist-hub-backend.onrender.com/comments";
 
 export default BASE_URL;
